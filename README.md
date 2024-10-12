@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya4313&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4313" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -24,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/roushan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roushan kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/aadit_ya25.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadit_ya25.me" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/roushan433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roushan433" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rousahn433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rousahn433" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aditya_evan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_evan" height="30" width="40" /></a>
 </p>
 
