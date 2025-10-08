@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [[https://portfoliio-theta.vercel.app/](https://portfoliio-theta.vercel.app/)
+- 👨‍💻 All of my projects are available at [[[https://portfoliio-theta.vercel.app/](https://portfolioo-fghx.vercel.app/)](https://portfoliio-theta.vercel.app/)
 
 - 💬 Ask me about **react, MERN**
 
